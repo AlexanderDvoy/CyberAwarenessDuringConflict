@@ -34,7 +34,7 @@ cyber_awareness_dashboard
 Installation
 
 Clone the repository:
-git clone https://github.com/YOUR_USERNAME/cyber_awareness_dashboard.git
+git clone https://github.com/YOUR_USERNAME/appName.git
 Navigate to the project folder:
 cd cyber_awareness_dashboard
 Install required libraries:
